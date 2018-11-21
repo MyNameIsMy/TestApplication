@@ -1,0 +1,23 @@
+<resources>
+    <string name="reload">reload</string>
+    <string name="target_app_web_app">target app: web app</string>
+    <string name="target_app_game">target app: game</string>
+    <string name="exit">exit</string>
+    <string name="start_app">start app</string>
+    <string name="recreate_permission">recreate permission</string>
+    <string name="repeat">repeat</string>
+    <string name="right_cowboy_win">Right cowboy win</string>
+    <string name="left_cowboy_win">Left cowboy win</string>
+    <string name="back">back</string>
+    <string name="easy">easy</string>
+    <string name="middle">middle</string>
+    <string name="hard">hard</string>
+    <string name="impossible">impossible</string>
+    <string name="bang">BANG!!!</string>
+    <string name="steady">steady</string>
+    <string name="ready">ready</string>
+    <string name="two_player_game">2 players</string>
+    <string name="one_player_game">1 player</string>
+    <string name="loading">loading…</string>
+    <string name="app_name">TestApplication</string>
+</resources>
